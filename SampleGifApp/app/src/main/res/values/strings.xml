@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleGifApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string-array name="list_menu">
+        <item>CREATE GIF</item>
+        <item>SHOW PERSONAL GIFs</item>
+        <item>SHOW ALL GIFs</item>
+    </string-array>
+
+    <string-array name="sub_list_menu">
+        <item>Launch camera and save successive frames every 3 seconds. </item><!--\nDelay between frames and frame quality could be cutomized.-->
+        <item>Pin Up all created Gifs with Sample Gif App.</item><!--\nGifs could be shared or deleted-->
+        <item>Pin Up all public Gifs in phone.</item>
+    </string-array>
+
+</resources>

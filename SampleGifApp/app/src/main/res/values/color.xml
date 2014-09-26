@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="bg_green">#ff26b259</color>
+
+    <color name="adapter_txt_gray">#2C363A</color><!--2C363A-->
+
+</resources>
